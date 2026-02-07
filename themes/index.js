@@ -460,7 +460,7 @@ export const themes = {
     title_color: "f63366",
     icon_color: "f63366",
     text_color: "fffd80",
-    bg_color: "262730",
+    bg_color: "ffffff00",
     border_color: "f0f2f6",
   },
   ambient_gradient: {
