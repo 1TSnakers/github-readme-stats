@@ -461,7 +461,7 @@ export const themes = {
     icon_color: "f63366",
     text_color: "f0f2f6",
     bg_color: "262730",
-    border_color: "35,f63366,f0f2f6",
+    border_color: "f63366,f0f2f6",
   },
   ambient_gradient: {
     title_color: "ffffff",
