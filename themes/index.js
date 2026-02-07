@@ -456,6 +456,13 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
+   streamlit_dark: {
+    title_color: "2f80ed",
+    icon_color: "4c71f2",
+    text_color: "fffd80",
+    bg_color: "f0f2f6",
+    border_color: "f63366,fffd80",
+  },
   ambient_gradient: {
     title_color: "ffffff",
     text_color: "ffffff",
