@@ -456,7 +456,7 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
-   streamlit_dark: {
+   streamlit: {
     title_color: "f63366",
     icon_color: "f63366",
     text_color: "fffd80",
