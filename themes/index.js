@@ -458,10 +458,10 @@ export const themes = {
   },
    streamlit_dark: {
     title_color: "f63366",
-    icon_color: "4c71f2",
+    icon_color: "f63366",
     text_color: "f0f2f6",
     bg_color: "262730",
-    border_color: "f63366,f0f2f6",
+    border_color: "35,f63366,f0f2f6",
   },
   ambient_gradient: {
     title_color: "ffffff",
